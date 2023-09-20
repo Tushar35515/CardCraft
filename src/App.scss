@@ -17,8 +17,20 @@ body {
   grid-template-rows: 40px 50px 1fr;
   background-color: $board-bg-color;
   color: $app-main-color;
+
   .icon {
     font-size: 14px;
     margin-right: 3px;
+  }
+
+  .customize-input-column {
+    border: none;
+    cursor: pointer;
+    &:focus {
+      outline: none !important;
+      box-shadow: none !important;
+    }
+
+    background-color: inherit;
   }
 }
