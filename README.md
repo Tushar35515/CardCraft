@@ -1,3 +1,5 @@
+# [Demo Link](https://tushar35515.github.io/Zuddl_ASSIGNMENT/)
+
 #How would your tables and apis change for the following scenarios. What tables and api endpoints would you add? Which tables and api endpoints would need to be updated?
 
 
